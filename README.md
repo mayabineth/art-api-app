@@ -2,7 +2,7 @@
 
 1. usage of react-router-dom and useContext hook
 2. searching art pieces via Paintings API
-3. each painting has new link with its own details (painting name, description, artist, year, dimensions and technique)
+3. each painting has a new link with its own details (painting name, description, artist, year, dimensions and technique)
 4. present search field
 5. pretty design with grid view
 
